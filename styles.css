@@ -1,4 +1,4 @@
-@media screen and (min-width: 421px) {
+@media screen and (min-width: 431px) {
   body {
     background-color:rgb(228, 221, 213);
   }
@@ -106,7 +106,7 @@
     font-weight: bolder;
   }
 }
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 430px) {
   body {
     background-color:rgb(228, 221, 213);
   }
